@@ -1,2 +1,1 @@
-# Pastel
-A Collection of my forks with pastel colors
+Just a Template
