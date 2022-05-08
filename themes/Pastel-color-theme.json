@@ -2237,7 +2237,7 @@
         "list.hoverForeground": "#FFDEDE",
         "list.activeSelectionBackground": "#495057",
         "list.activeSelectionForeground": "#FFDEDE",
-        "tree.indentGuidesStroke": "#212529",
+        "tree.indentGuidesStroke": "#343A40",
         "list.dropBackground": "#212529",
         "list.highlightForeground": "#DEFBFF",
         "list.focusBackground": "#212529",
