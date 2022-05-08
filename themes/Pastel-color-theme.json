@@ -2245,7 +2245,7 @@
         "listFilterWidget.background": "#212529",
         "listFilterWidget.outline": "#00000000",
         "listFilterWidget.noMatchesOutline": "#FF8E8E",
-        "statusBar.foreground": "#FFDEDE",
+        "statusBar.foreground": "#212529",
         "statusBar.background": "#DEFBFF",
         "statusBarItem.hoverBackground": "#ffffff1f",
         "statusBar.debuggingBackground": "#FF8E8E",
