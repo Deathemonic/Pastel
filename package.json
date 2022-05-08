@@ -1,8 +1,8 @@
 {
-	"name": "sweetdark-vsc",
-	"displayName": "SweetBerry for VSCode",
+	"name": "pastel-vsc",
+	"displayName": "Pastel for VSCode",
 	"publisher": "Deathemonic",
-	"description": "Warm mid-tone dark theme to show off your vibrant self!",
+	"description": "A Fork of Catppuccin vscode but change to fit with SweetBerry!",
 	"version": "1.0.6",
 	"engines": {
 		"vscode": "^1.13.0"
@@ -13,18 +13,18 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "SweetDark",
+				"label": "Pastel",
 				"uiTheme": "vs-dark",
-				"path": "./themes/SweetDark-color-theme.json"
+				"path": "./themes/Pastel-color-theme.json"
 			}
 		]
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Deathemonic/vscode-Template.git"
+		"url": "https://github.com/Deathemonic/Pastel.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Deathemonic/vscode-Template/issues"
+		"url": "https://github.com/Deathemonic/Pastel/issues"
 	},
 	"icon": "icon.png",
 	"license": "GPL",
