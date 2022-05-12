@@ -15,7 +15,7 @@ This will install the theme and accompanying extension automatically.
 In **Bash**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Deathemonic/Comfy-spicetify/main/install.sh | sh
+curl -fsSLhttps://raw.githubusercontent.com/Deathemonic/Pastel/comfy/install.sh | sh
 ```
 
 #### Manual Install
