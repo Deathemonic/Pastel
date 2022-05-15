@@ -15,7 +15,7 @@ local plugins = {
 
    ["NvChad/extensions"] = {},
 
-   ["Deathemonic/pastel-base46"] = {
+   ["Deathemonic/base46"] = {
       after = "packer.nvim",
       config = function()
          local ok, base46 = pcall(require, "base46")
